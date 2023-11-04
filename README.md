@@ -6,6 +6,25 @@
 
 <div align="center">
   <strong>Template for Vite + React + Typescript + Tailwind + React Router Dom</strong>
+  <!-- badge -->
+  <br />
+  <br />
+  <!-- license -->
+  <img src="https://img.shields.io/github/license/walber-vaz/template-react-vite-tailwind-ts" alt="License" />
+  <!-- code size  -->
+  <img src="https://img.shields.io/github/languages/code-size/walber-vaz/template-react-vite-tailwind-ts" alt="Code Size" />
+  <!-- issues -->
+  <img src="https://img.shields.io/github/issues/walber-vaz/template-react-vite-tailwind-ts" alt="Issues" />
+  <!-- stars -->
+  <img src="https://img.shields.io/github/stars/walber-vaz/template-react-vite-tailwind-ts" alt="Stars" />
+  <!-- forks -->
+  <img src="https://img.shields.io/github/forks/walber-vaz/template-react-vite-tailwind-ts" alt="Forks" />
+  <!-- tecnologias -->
+  <img src="https://img.shields.io/github/languages/count/walber-vaz/template-react-vite-tailwind-ts" alt="Languages" />
+  <!-- top language -->
+  <img src="https://img.shields.io/github/languages/top/walber-vaz/template-react-vite-tailwind-ts" alt="Top Language" />
+  <!-- last commit -->
+  <img src="https://img.shields.io/github/last-commit/walber-vaz/template-react-vite-tailwind-ts" alt="Last Commit" />
 </div>
 
 ---
