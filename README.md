@@ -48,4 +48,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
   <strong>Walber Vaz</strong>
   <br />
   <p>👉 <a href="https://www.linkedin.com/in/walber-vaz/">LinkedIn</a></p>
+  <p>
+    Made with 💜 by Walber Vaz
+    <span>
+      Sobre o autor: Sou um desenvolvedor apaixonado por tecnologia, que busca sempre aprender coisas novas e compartilhar conhecimento.
+    </span>
+  </p>
 </div>
