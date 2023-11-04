@@ -1,8 +1,13 @@
 {
   "name": "2kdispense",
-  "private": true,
-  "version": "0.0.0",
+  "version": "0.0.1",
+  "license": "MIT",
   "type": "module",
+  "author": {
+    "name": "Walber Vaz",
+    "email": "wvs.walber@gmail.com"
+  },
+  "description": "Template for React with Vite, TailwindCSS, ESLint, Prettier, TypeScript, React Router, Zustand and more.",
   "scripts": {
     "dev": "vite --host --open",
     "build": "tsc && vite build",
@@ -13,7 +18,8 @@
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-router-dom": "^6.18.0"
+    "react-router-dom": "^6.18.0",
+    "zustand": "^4.4.6"
   },
   "devDependencies": {
     "@types/node": "^20.8.10",
