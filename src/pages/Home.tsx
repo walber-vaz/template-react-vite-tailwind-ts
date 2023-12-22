@@ -44,7 +44,7 @@ export const Home = (): React.JSX.Element => {
             rel="noreferrer"
             className="ml-2 text-2xl"
           >
-            Linkind (Walber Vaz)
+            Linkedin (Walber Vaz)
           </a>
         </div>
         <div
